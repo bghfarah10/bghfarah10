@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @bghfarah10 a terminal SEIOT  student in faculty of sciences bizerte 
+- 👀 I’m interested in Embedded Systems, IoT, web development, and mobile app development.
+- 🌱 I’m currently learning big data, IT architecture, cloud computing, 5G, and network visualization.
+- 💞️ I’m looking to collaborate on IoT projects, web apps, and mobile app development.
+- 📫 How to reach me: bghfarah91@gmail.com | farah ben gaid hassine
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love working on hands-on hardware projects, and I’m also passionate about reading books 
